@@ -1,4 +1,4 @@
-David effusing efficientl
+David effusing efficient
 using GTBTech.Services;
 using System;
 using System.Collections.Generic;
