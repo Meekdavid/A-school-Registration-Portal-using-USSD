@@ -1,4 +1,4 @@
-David Effiong Mvoko Mnoko
+David Effiong Mvoko Mnok
 using GTBTech.Services;
 using System;
 using System.Collections.Generic;
